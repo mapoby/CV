@@ -1,3 +1,5 @@
+[wiki](https://cv.narutmic.com)
+
 
 # Michael (Mikhail) Naruta
 
