@@ -3,10 +3,50 @@
     <title>CV - Michael Naruta</title>
     <link href="https://cv.narutmic.com/feed.xml" rel="self" />
     <link href="https://cv.narutmic.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-02-08T20:59:51+00:00</updated>
     <author>
         <name>Michael Naruta</name>
     </author>
     <id>https://cv.narutmic.com</id>
 
+    <entry>
+        <title>post 02</title>
+        <author>
+            <name>Michael Naruta</name>
+        </author>
+        <link href="https://cv.narutmic.com/post-02/"/>
+        <id>https://cv.narutmic.com/post-02/</id>
+
+        <updated>2026-02-08T20:59:51+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    post 02
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>post 02</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post 01</title>
+        <author>
+            <name>Michael Naruta</name>
+        </author>
+        <link href="https://cv.narutmic.com/post-01/"/>
+        <id>https://cv.narutmic.com/post-01/</id>
+
+        <updated>2026-02-08T20:59:34+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hello here !
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello here !</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -9,5 +9,33 @@
         "name": "Michael Naruta"
     },
     "items": [
+        {
+            "id": "https://cv.narutmic.com/post-02/",
+            "url": "https://cv.narutmic.com/post-02/",
+            "title": "post 02",
+            "summary": "post 02",
+            "content_html": "<p>post 02</p>",
+            "author": {
+                "name": "Michael Naruta"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-08T20:59:51+00:00",
+            "date_modified": "2026-02-08T20:59:51+00:00"
+        },
+        {
+            "id": "https://cv.narutmic.com/post-01/",
+            "url": "https://cv.narutmic.com/post-01/",
+            "title": "post 01",
+            "summary": "Hello here !",
+            "content_html": "<p>Hello here !</p>",
+            "author": {
+                "name": "Michael Naruta"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-08T20:59:34+00:00",
+            "date_modified": "2026-02-08T20:59:34+00:00"
+        }
     ]
 }
