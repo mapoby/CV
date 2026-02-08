@@ -1,1 +1,0 @@
-## (C) Michael Naruta, 2026.

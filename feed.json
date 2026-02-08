@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CV - Michael Naruta",
+    "description": "",
+    "home_page_url": "https://cv.narutmic.com",
+    "feed_url": "https://cv.narutmic.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Michael Naruta"
+    },
+    "items": [
+    ]
+}
